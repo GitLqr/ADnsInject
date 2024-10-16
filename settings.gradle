@@ -1,0 +1,3 @@
+include ':adnsinject'
+include ':app'
+rootProject.name = "ADnsInject"
